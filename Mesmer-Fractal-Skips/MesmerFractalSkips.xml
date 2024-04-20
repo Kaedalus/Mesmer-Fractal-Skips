@@ -1,0 +1,174 @@
+<OverlayData>
+	<!-- by Kaedalus -->
+
+	<!-- Categories -->
+	<MarkerCategory name="meskips" displayName="Mesmer Fractal Skips">
+		<!-- Markers -->
+		<MarkerCategory name="m" displayName="Markers">
+			<MarkerCategory name="ss" displayName="Skip Start" iconFile="Data/Markers/SkipStart.png" alpha="0.8" iconSize="1"/>
+			<MarkerCategory name="mm" displayName="Mimic" iconFile="Data/Markers/Mimic.png" alpha="0.8" iconSize="0.6"/>
+			<MarkerCategory name="bl" displayName="Blink" iconFile="Data/Markers/Blink.png" alpha="0.8" iconSize="0.6"/>
+			<MarkerCategory name="blt" displayName="Blink Target" iconFile="Data/Markers/BlinkTarget.png" alpha="0.8" iconSize="1"/>
+			<MarkerCategory name="jn" displayName="Jaunt" iconFile="Data/Markers/Jaunt.png" alpha="0.8" iconSize="0.6"/>
+			<MarkerCategory name="mt" displayName="Mirage Thrust" iconFile="Data/Markers/MirageThrust.png" alpha="0.6" iconSize="0.6"/>
+			<MarkerCategory name="pen" displayName="Portal Entre" iconFile="Data/Markers/PortalEntre.png" alpha="0.8" iconSize="1"/>
+			<MarkerCategory name="pex" displayName="Portal Exeunt" iconFile="Data/Markers/PortalExeunt.png" alpha="0.8" iconSize="1"/>
+			<MarkerCategory name="gg" displayName="/gg" iconFile="Data/Markers/GG.png" alpha="0.8" iconSize="1"/>
+			<MarkerCategory name="di" displayName="Dodge-Interact" iconFile="Data/Markers/DodgeInteract.png" alpha="0.8" iconSize="1"/>
+			<MarkerCategory name="aw" displayName="Ambush Warp" iconFile="Data/Markers/TargetAmbush.png" alpha="1" iconSize="1"/>
+		</MarkerCategory>
+		
+		<!-- Trails -->
+		<MarkerCategory name="t" displayName="Trails">
+			<MarkerCategory name="t1" displayName="Volcanic" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t2" displayName="Uncategorized" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t3" displayName="Snowblind" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t4" displayName="Urban Battleground" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t5" displayName="Swampland" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t6" displayName="Cliffside" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t7" displayName="Aquatic Ruins" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t8" displayName="Underground Facility" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t9" displayName="Molten Furnace" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t10" displayName="Molten Boss" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t11" displayName="Deepstone" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t12" displayName="Siren's Reef" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t13" displayName="Chaos" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t14" displayName="Aetherblade" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t15" displayName="Thaumanova" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t16" displayName="Twilight Oasis" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t18" displayName="Mai Trin" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t20" displayName="Solid Ocean" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t22" displayName="Nightmare" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t23" displayName="Shattered Observatory" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t24" displayName="Sunqua Peak" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+			<MarkerCategory name="t25" displayName="Silent Surf" texture="Data/Markers/trail.png" fadeNear="3000" fadeFar="3500"/>
+		</MarkerCategory>
+	</MarkerCategory>
+	
+	
+	
+	<!-- Markers and Trails -->
+	<POIs>
+
+		<!-- MARKERS -->
+		
+			<!-- 1: Volcanic -->
+			<POI MapID="954" xpos="230.212" ypos="54.3019" zpos="-661.295" type="meskips.m.pex" GUID="VZhSUFaKfkSkxS78oujKxA=="/>
+			<POI MapID="954" xpos="334.475" ypos="82.4632" zpos="-725.669" type="meskips.m.pen" GUID="1/ynciJSY0m1UBFSVsFUZg=="/>
+			<POI MapID="954" xpos="196.4" ypos="36.946" zpos="-743.087" type="meskips.m.mm" GUID="RA8gO1GqvEirlN3dfv4lWg=="/>
+			<POI MapID="954" xpos="241.613" ypos="10.0495" zpos="-794.228" type="meskips.m.blt" GUID="rFS7NUfwYUi0byye2nJSNg=="/>
+			<POI MapID="954" xpos="208.897" ypos="7.15371" zpos="-746.397" type="meskips.m.bl" GUID="pWl2/PrPRUCbKI/emBFQNA=="/>
+			<POI MapID="954" xpos="226.21" ypos="7.16393" zpos="-770.428" type="meskips.m.bl" GUID="FyHz7yEnM0W4E2f+UK/3Pw=="/>
+			<POI MapID="954" xpos="225.79" ypos="7.16393" zpos="-770.428" type="meskips.m.blt" GUID="9dVahuyrPUmw/v0O08aO/A=="/>
+			<POI MapID="954" xpos="245.016" ypos="10.1807" zpos="-794.388" type="meskips.m.gg" GUID="ZcCFdF8cQkeoCYYHRJHAcQ=="/>
+
+			
+			<!-- 2: Uncategorized -->
+			<POI MapID="947" xpos="-815.341" ypos="747.152" zpos="-764.796" type="meskips.m.pen" GUID="MOqJgfmsIk+ofkmsYZGZWQ=="/>
+			<POI MapID="947" xpos="-782.004" ypos="782.679" zpos="-718.793" type="meskips.m.pex" GUID="DvgLbWcnCU+sKnFMTAYRKw=="/>
+			<POI MapID="947" xpos="-731.114" ypos="799.906" zpos="-684.09" type="meskips.m.ss" GUID="Oj5ZjMa7WEGHXgqgt3D9sQ=="/>
+			<POI MapID="947" xpos="-773.369" ypos="829.042" zpos="-776.023" type="meskips.m.di" GUID="pfJYiB1Dl0uHYnryQYFcGg=="/>
+			<POI MapID="947" xpos="-768.83" ypos="829.541" zpos="-781.144" type="meskips.m.pex" GUID="QMUpqi9vd0u7MKFYeCoTUA=="/>
+			<POI MapID="947" xpos="-754.007" ypos="828.433" zpos="-784.93" type="meskips.m.blt" GUID="TD8qTlj+/kKu4ensqz4O1Q=="/>
+			<POI MapID="947" xpos="-737.729" ypos="802.317" zpos="-703.176" type="meskips.m.pen" GUID="4KgMYdXDhU65J2M6JzsjdQ=="/>
+			<POI MapID="947" xpos="-752.695" ypos="803.781" zpos="-765.687" type="meskips.m.mm" GUID="3gNkL86X6USTFNjiuyaKpA=="/>
+			<POI MapID="947" xpos="-753.721" ypos="803.882" zpos="-765.31" type="meskips.m.bl" GUID="wV0GI+jrrkygp3XJxBI/2w=="/>
+			<POI MapID="947" xpos="-763.742" ypos="822.07" zpos="-779.029" type="meskips.m.blt" GUID="DoYAnbqMJUizs1EEkfUtKw=="/>
+			<POI MapID="947" xpos="-765.572" ypos="829.519" zpos="-782.371" type="meskips.m.bl" GUID="Jhw0ObG8F0eHO9QM15gUnQ=="/>
+			<POI MapID="947" xpos="-783.439" ypos="833.852" zpos="-757.379" type="meskips.m.ss" GUID="IBLZVJG+q0+9Qf83hpNQog=="/>
+			<POI MapID="947" xpos="-774.266" ypos="840.959" zpos="-762.883" type="meskips.m.mt" GUID="iUu2NRVW+E64U1WVqgBoDg=="/>
+			<POI MapID="947" xpos="-778.335" ypos="848.142" zpos="-749.732" type="meskips.m.mt" GUID="rFSisQ+YNEaUYjb+sPSirQ=="/>
+			<POI MapID="947" xpos="-774.03" ypos="850.12" zpos="-752.842" type="meskips.m.mt" GUID="Oz/q9DIMa0i1YegI3YdxJA=="/>
+			<POI MapID="947" xpos="-834.667" ypos="858.483" zpos="-698.981" type="meskips.m.gg" GUID="G5SWzu0hAUW44NyleifCiQ=="/>
+			<POI MapID="947" xpos="-825.37" ypos="842.846" zpos="-730.169" type="meskips.m.mt" GUID="tda0bycyeECtNvnLi2TSDw=="/>
+
+
+			
+			<!-- 3: Snowblind -->
+			<!-- 4: Urban Battleground -->
+			<!-- 5: Swampland -->
+			
+			<!-- 6: Cliffside -->
+			<POI MapID="952" xpos="38.1" ypos="563.539" zpos="-14.2484" type="meskips.m.pen" GUID="H11RT6Cj1kirm3884TMU7A=="/>
+			<POI MapID="952" xpos="33.433" ypos="593.835" zpos="-21.907" type="meskips.m.pex" GUID="cnwLwhNln0SbVrVK9VhwTg=="/>
+			<POI MapID="952" xpos="48.5659" ypos="594.736" zpos="-9.17518" type="meskips.m.ss" GUID="66ZHVw2+BEmlCXIv7ByoHQ=="/>
+			<POI MapID="952" xpos="51.3027" ypos="594.296" zpos="4.94126" type="meskips.m.bl" GUID="OfEeYOEM50aruUetUr277Q=="/>
+			<POI MapID="952" xpos="53.7673" ypos="593.032" zpos="35.49" type="meskips.m.blt" GUID="5o9mfD1TwkyOaMW8E7I4eg=="/>
+			<POI MapID="952" xpos="28.104" ypos="592.048" zpos="46.1695" type="meskips.m.mt" GUID="eMh2HpkQH0OXtSaC+T7VgA=="/>
+			<POI MapID="952" xpos="11.6167" ypos="605.383" zpos="68.2423" type="meskips.m.mt" GUID="mlyqWKYg+kCuBPaixuzqFw=="/>
+			<POI MapID="952" xpos="27.632" ypos="589.494" zpos="96.2356" type="meskips.m.mt" GUID="9rDUCU6cakyzdAlHnGKDaA=="/>
+			<POI MapID="952" xpos="54.706" ypos="596.155" zpos="100.15" type="meskips.m.bl" GUID="38BsoW1C1ke+UAncP6Snvw=="/>
+			<POI MapID="952" xpos="58.1829" ypos="614.656" zpos="103.603" type="meskips.m.blt" GUID="EktK6q1dEUml29o7nLEZrA=="/>
+			<POI MapID="952" xpos="59.1918" ypos="634.295" zpos="97.2116" type="meskips.m.blt" GUID="I+yRos+B4kGgS4K+/FU4aw=="/>
+			<POI MapID="952" xpos="65.2555" ypos="593.14" zpos="98.6267" type="meskips.m.mm" GUID="EVcQeUU/vkCrhCa2UX+9Dg=="/>
+			<POI MapID="952" xpos="62.3118" ypos="636.42" zpos="84.3729" type="meskips.m.mt" GUID="4yX25MJJs0ebKzaVy0gd2g=="/>
+			<POI MapID="952" xpos="62.5694" ypos="636.47" zpos="58.5669" type="meskips.m.mt" GUID="ledODjU/jkquM5Rib3dH4w=="/>
+			<POI MapID="952" xpos="73.9143" ypos="660.117" zpos="27.6391" type="meskips.m.blt" GUID="sx6Tzuk5HEyugFA6yNnEyw=="/>
+			<POI MapID="952" xpos="66.4377" ypos="650.639" zpos="27.0965" type="meskips.m.bl" GUID="JRjnC+vC2UyxyoUWO7L5yw=="/>
+			<POI MapID="952" xpos="49.8252" ypos="662.038" zpos="34.2061" type="meskips.m.gg" GUID="nOGaz/+jckueUk7FM6DLNA=="/>
+			<POI MapID="952" xpos="60.7825" ypos="666.862" zpos="-49.5878" type="meskips.m.blt" GUID="lTnu3wa7sEOlwAAx4xzQvA=="/>
+			<POI MapID="952" xpos="53.4657" ypos="674.623" zpos="-62.2517" type="meskips.m.blt" GUID="23v/dJMwHkOZMB3mTIN8kg=="/>
+			<POI MapID="952" xpos="92.5547" ypos="711.433" zpos="-37.2351" type="meskips.m.blt" GUID="YV3EBP07DEGDsOkw3NHnsw=="/>
+			<POI MapID="952" xpos="94.1385" ypos="688.142" zpos="-35.3841" type="meskips.m.bl" GUID="MxQjjAkom0eiykB3x1O73w=="/>
+			<POI MapID="952" xpos="95.8979" ypos="688.102" zpos="-37.678" type="meskips.m.ss" GUID="tV7OwrnQxUCRE2ZlJr3sFw=="/>
+			<POI MapID="952" xpos="62.2817" ypos="668.813" zpos="-28.6974" type="meskips.m.bl" GUID="9iQrjyEYW0yokzoyzph7BA=="/>
+			<POI MapID="952" xpos="61.7237" ypos="668.883" zpos="-23.5691" type="meskips.m.mm" GUID="+cCmTFHQdECBHLcyZx27mQ=="/>
+		
+			<!-- 7: Aquatic Ruins -->
+			<!-- 8: Underground Facility -->
+			<!-- 9: Molten Furnace -->
+			<!-- 10: Molten Boss -->
+			<POI MapID="959" xpos="-180.329" ypos="134.441" zpos="-93.0818" type="meskips.m.pex" GUID="sAQgHwdY4E+BQjc6kCtgBg=="/>
+			<POI MapID="959" xpos="-188.372" ypos="209.119" zpos="-159.324" type="meskips.m.pen" GUID="KeA1/jmg4ki2za40Rf6oBg=="/>
+			<POI MapID="959" xpos="-200.735" ypos="209.689" zpos="-155.742" type="meskips.m.ss" GUID="N1ZIwNSDPUeGpYhPt7u+mQ=="/>
+			<POI MapID="959" xpos="-176.785" ypos="210.734" zpos="-158.613" type="meskips.m.aw" GUID="byz6xmXtRUKP1vKRhUunUw==" iconSize="3"/>
+			
+			<!-- 11: Deepstone -->
+			<!-- 12: Siren's Reef -->
+			<!-- 13: Chaos -->
+			<!-- 14: Aetherblade -->
+			<!-- 15: Thaumanova -->
+			<!-- 16: Twilight Oasis -->
+			<!-- 18: Mai Trin -->
+			<!-- 20: Solid Ocean -->
+			<!-- 22: Nightmare -->
+			<!-- 23: Shattered Observatory -->
+			<!-- 24: Sunqua Peak -->
+			<!-- 25: Silent Surf -->
+	
+		<!-- TRAILS -->
+			
+			<!-- 1: Volcanic -->
+			<Trail type="meskips.t.t1" trailData="Data/Trails/Cliffside.trl"/>
+			
+			<!-- 2: Uncategorized -->
+			<Trail type="meskips.t.t2" trailData="Data/Trails/Uncat.trl"/>
+			
+			<!-- 3: Snowblind -->
+			<!-- 4: Urban Battleground -->
+			<!-- 5: Swampland -->
+			
+			<!-- 6: Cliffside -->
+			<Trail type="meskips.t.t6" trailData="Data/Trails/Cliffside.trl"/>
+		
+			<!-- 7: Aquatic Ruins -->
+			<!-- 8: Underground Facility -->
+			<!-- 9: Molten Furnace -->
+			<!-- 10: Molten Boss -->
+			<Trail type="meskips.t.t10" trailData="Data/Trails/MoltenBoss.trl"/>
+			
+			<!-- 11: Deepstone -->
+			<!-- 12: Siren's Reef -->
+			<!-- 13: Chaos -->
+			<!-- 14: Aetherblade -->
+			<!-- 15: Thaumanova -->
+			<!-- 16: Twilight Oasis -->
+			<!-- 18: Mai Trin -->
+			<!-- 20: Solid Ocean -->
+			<!-- 22: Nightmare -->
+			<!-- 23: Shattered Observatory -->
+			<!-- 24: Sunqua Peak -->
+			<!-- 25: Silent Surf -->
+	</POIs>
+
+</OverlayData>

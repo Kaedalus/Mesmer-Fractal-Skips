@@ -26,8 +26,8 @@ Made by Nickolas (Nick Kaedalus.9526)
 - [ ] 14: Aetherblade
 - [ ] 15: Thaumanova Reactor
 - [ ] 16: Twilight Oasis
-- [ ] 18: Mai Trin Boss
-- [ ] 20: Solid Ocean
+- [x] 18: Mai Trin Boss (no skips)
+- [x] 20: Solid Ocean
 - [ ] 22: Nightmare
 - [ ] 23: Shattered Observatory
 - [ ] 24: Sunqua Peak

@@ -31,6 +31,6 @@ Made by Nickolas (Nick Kaedalus.9526)
 - [ ] 22: Nightmare
 - [ ] 23: Shattered Observatory
 - [ ] 24: Sunqua Peak
-- [ ] 25: Silent Surf
+- [x] 25: Silent Surf (no skips)
 
 \* There are complex speedrunning tricks or glitches, but these are out of the scope of this pack and/or not suitable for PUGs.

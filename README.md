@@ -5,3 +5,5 @@
 Tried to be as detailed as possible, though some tricks might require previous knowledge from more detailed guides, such as [FeintFate's](https://www.youtube.com/watch?v=4ZqZbggL_0o).
 
 *Big thanks to xTeh, Saule and FeintFate for their guides!*
+
+Made by IGN: Nickolas (Nick Kaedalus.9526)

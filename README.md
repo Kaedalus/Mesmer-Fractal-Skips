@@ -1,0 +1,36 @@
+# Mesmer Fractal Skips Marker Pack
+
+## **[Click here to download the pack!](https://github.com/Kaedalus/Mesmer-Fractal-Skips/releases/latest/download/MesmerFractalSkips.taco)**
+
+Tried to be as detailed as possible, though some tricks might require previous knowledge from more detailed guides, such as [FeintFate's](https://www.youtube.com/watch?v=4ZqZbggL_0o).
+
+*Big thanks to xTeh, Saule and FeintFate for their guides!*
+
+Made by Nickolas (Nick Kaedalus.9526)
+
+## Current Progress
+
+- [x] 1: Volcanic
+- [x] 2: Uncategorized
+- [ ] 3: Snowblind
+- [ ] 4: Urban Battleground
+- [ ] 5: Swampland
+- [x] 6: Cliffside
+- [ ] 7: Aquatic Ruins
+- [ ] 8: Underground Facility
+- [x] 9: Molten Furnace (no skips)
+- [x] 10: Molten Boss
+- [x] 11: Deepstone (no skips*)
+- [x] 12: Siren's Reef (no skips*)
+- [ ] 13: Chaos
+- [ ] 14: Aetherblade
+- [ ] 15: Thaumanova Reactor
+- [ ] 16: Twilight Oasis
+- [x] 18: Mai Trin Boss (no skips)
+- [x] 20: Solid Ocean
+- [ ] 22: Nightmare
+- [ ] 23: Shattered Observatory
+- [ ] 24: Sunqua Peak
+- [x] 25: Silent Surf (no skips)
+
+\* There are complex speedrunning tricks or glitches, but these are out of the scope of this pack and/or not suitable for PUGs.

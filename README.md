@@ -13,7 +13,7 @@ Made by Nickolas (Nick Kaedalus.9526). If you know of any other skips that aren'
 - [x] 1: Volcanic
 - [x] 2: Uncategorized
 - [x] 3: Snowblind (no skips)
-- [ ] 4: Urban Battleground
+- [x] 4: Urban Battleground
 - [x] 5: Swampland (no skips)
 - [x] 6: Cliffside
 - [ ] 7: Aquatic Ruins

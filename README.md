@@ -17,7 +17,7 @@ Made by Nickolas (Nick Kaedalus.9526)
 - [ ] 5: Swampland
 - [x] 6: Cliffside
 - [ ] 7: Aquatic Ruins
-- [ ] 8: Underground Facility
+- [x] 8: Underground Facility
 - [x] 9: Molten Furnace (no skips)
 - [x] 10: Molten Boss
 - [x] 11: Deepstone (no skips*)
@@ -33,4 +33,4 @@ Made by Nickolas (Nick Kaedalus.9526)
 - [ ] 24: Sunqua Peak
 - [x] 25: Silent Surf (no skips)
 
-\* There are complex speedrunning tricks or glitches, but these are out of the scope of this pack and/or not suitable for PUGs.
+\* There are complex speedrunning tricks or glitches (or simple portals covered by other common packs), but these are out of the scope of this pack and/or not suitable for PUGs.

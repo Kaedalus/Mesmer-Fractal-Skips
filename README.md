@@ -2,11 +2,11 @@
 
 ## **[Click here to download the pack!](https://github.com/Kaedalus/Mesmer-Fractal-Skips/releases/latest/download/MesmerFractalSkips.taco)**
 
-Tried to be as detailed as possible, though some tricks might require previous knowledge from more detailed guides, such as [FeintFate's](https://www.youtube.com/watch?v=4ZqZbggL_0o).
+Tried to be as detailed as possible, though some tricks might require previous knowledge from more detailed guides, such as [FeintFate's](https://www.youtube.com/watch?v=4ZqZbggL_0o). If the "skips" are just portal placements, I also didn't include them, as this is extensively covered by other very common packs. :)
 
 *Big thanks to xTeh, Saule and FeintFate for their guides!*
 
-Made by Nickolas (Nick Kaedalus.9526)
+Made by Nickolas (Nick Kaedalus.9526). If you know of any other skips that aren't covered by this guide (or the disclaimers), feel free to hit me up in-game!
 
 ## Current Progress
 
@@ -14,7 +14,7 @@ Made by Nickolas (Nick Kaedalus.9526)
 - [x] 2: Uncategorized
 - [ ] 3: Snowblind
 - [ ] 4: Urban Battleground
-- [ ] 5: Swampland
+- [x] 5: Swampland (no skips)
 - [x] 6: Cliffside
 - [ ] 7: Aquatic Ruins
 - [x] 8: Underground Facility
@@ -33,4 +33,4 @@ Made by Nickolas (Nick Kaedalus.9526)
 - [ ] 24: Sunqua Peak
 - [x] 25: Silent Surf (no skips)
 
-\* There are complex speedrunning tricks or glitches (or simple portals covered by other common packs), but these are out of the scope of this pack and/or not suitable for PUGs.
+\* There are complex speedrunning tricks or glitches, but these are out of the scope of this pack and/or not suitable for PUGs.

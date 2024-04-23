@@ -19,6 +19,10 @@
 			<MarkerCategory name="ch" displayName="Choya Piñata" iconFile="Data/Markers/Choya.png" alpha="0.8" iconSize="0.8"/>
 			<MarkerCategory name="tw" displayName="Time Warp" iconFile="Data/Markers/TimeWarp.png" alpha="0.8" iconSize="0.6"/>
 			<MarkerCategory name="sh" displayName="Singularity Shot" iconFile="Data/Markers/SingularityShot.png" alpha="0.8" iconSize="0.6"/>
+			<MarkerCategory name="mi" displayName="Mass Invisibility" iconFile="Data/Markers/MassInvisibility.png" alpha="0.8" iconSize="0.6"/>
+			<MarkerCategory name="sup" displayName="Superspeed" iconFile="Data/Markers/Superspeed.png" alpha="0.8" iconSize="0.6"/>
+			<MarkerCategory name="swi" displayName="Swiftness" iconFile="Data/Markers/Swiftness.png" alpha="0.8" iconSize="0.6"/>
+			<MarkerCategory name="ecct" displayName="Endless Common Clothing Tonic" iconFile="Data/Markers/Shirt.png" alpha="0.9" iconSize="1"/>
 		</MarkerCategory>
 		
 		<!-- Trails -->
@@ -85,10 +89,17 @@
 			<POI MapID="947" xpos="-825.37" ypos="842.846" zpos="-730.169" type="meskips.m.mt" GUID="tda0bycyeECtNvnLi2TSDw=="/>
 
 			<!-- 3: Snowblind -->
+			<!-- 			No noteworthy skips at this time		 	-->
 			
 			<!-- 4: Urban Battleground -->
+			<POI MapID="950" xpos="281.449" ypos="3.43327" zpos="674.828" type="meskips.m.ss" GUID="svzN2deFoEmL4l46I6GcTg=="/>
+			<POI MapID="950" xpos="290.22" ypos="2.95731" zpos="682.643" type="meskips.m.swi" GUID="2WP7aG7rjkGpmSD4SDi9Hg=="/>
+			<POI MapID="950" xpos="292.765" ypos="2.95731" zpos="682.643" type="meskips.m.sup" GUID="Nm4nGqE4/Euf9ItN0NTuSA=="/>
+			<POI MapID="950" xpos="256.337" ypos="24.0209" zpos="690.654" type="meskips.m.mt" GUID="tpE4R87NM0Wl//YAq1VyoQ=="/>
+			<POI MapID="950" xpos="184.401" ypos="17.4983" zpos="738.925" type="meskips.m.gg" GUID="7Mc5JqiXbEix7XjRBFehAA=="/>
 			
 			<!-- 5: Swampland -->
+			<!-- 			No noteworthy skips at this time		 	-->
 			
 			<!-- 6: Cliffside -->
 			<POI MapID="952" xpos="38.1" ypos="563.539" zpos="-14.2484" type="meskips.m.pen" GUID="H11RT6Cj1kirm3884TMU7A=="/>
@@ -117,8 +128,18 @@
 			<POI MapID="952" xpos="61.7237" ypos="668.883" zpos="-23.5691" type="meskips.m.mm" GUID="+cCmTFHQdECBHLcyZx27mQ=="/>
 		
 			<!-- 7: Aquatic Ruins -->
+			<POI MapID="951" xpos="-116.245" ypos="-57.1247" zpos="-43.3471" type="meskips.m.ecct" GUID="T12L+2Ra6Eu7rozP9wKMWg=="/>
+			<POI MapID="951" xpos="155.8" ypos="-95.1338" zpos="131.897" type="meskips.m.gg" GUID="gLQ0s8+pW063ODuXk0uPRg=="/>
 			
 			<!-- 8: Underground Facility -->
+			<POI MapID="953" xpos="751.814" ypos="15.5905" zpos="410.321" type="meskips.m.ss" GUID="TZROF1wR5UO2LI3zjTNIMg=="/>
+			<POI MapID="953" xpos="740.079" ypos="6.08025" zpos="388.541" type="meskips.m.bl" GUID="GmtmHPf/gEmHNzY8Z29acw=="/>
+			<POI MapID="953" xpos="728.127" ypos="14.4544" zpos="363.171" type="meskips.m.blt" GUID="+4Z04+S4ZE6JiwMOe2MfjQ=="/>
+			<POI MapID="953" xpos="647.616" ypos="37.6001" zpos="386.1" type="meskips.m.aw" GUID="7/Q5R8EwxEazGQ66GNHlCA==" iconSize="2.5"/>
+			<POI MapID="953" xpos="727.079" ypos="14.4544" zpos="357.267" type="meskips.m.swi" GUID="blUqyq9tIkWUWhmqZQkjJw=="/>
+			<POI MapID="953" xpos="724.778" ypos="14.4544" zpos="358.565" type="meskips.m.sup" GUID="l33M64ql10m6qT1U3kfvIA=="/>
+			<POI MapID="953" xpos="626.545" ypos="19.1773" zpos="369.83" type="meskips.m.pex" GUID="9tCctsik8k6gui6Z1vq1wg=="/>
+			<POI MapID="953" xpos="747.297" ypos="15.624" zpos="404.249" type="meskips.m.pen" GUID="pNwFSJqsVE2+RGrphNG8Qg=="/>
 			
 			<!-- 9: Molten Furnace -->
 			<!-- 			No noteworthy skips at this time		 	-->
@@ -171,53 +192,78 @@
 			<!-- 1: Volcanic -->
 			<Trail type="meskips.t.t1" trailData="Data/Trails/Cliffside.trl"/>
 			
+			
 			<!-- 2: Uncategorized -->
 			<Trail type="meskips.t.t2" trailData="Data/Trails/Uncat.trl"/>
 			
+			
 			<!-- 3: Snowblind -->
+			<!-- 			No noteworthy skips at this time		 	-->	
+			
 			
 			<!-- 4: Urban Battleground -->
+			<Trail type="meskips.t.t4" trailData="Data/Trails/UrbanBattleground.trl"/>
+			
 			
 			<!-- 5: Swampland -->
+			<!-- 			No noteworthy skips at this time		 	-->	
+			
 			
 			<!-- 6: Cliffside -->
 			<Trail type="meskips.t.t6" trailData="Data/Trails/Cliffside.trl"/>
 		
+		
 			<!-- 7: Aquatic Ruins -->
-			
+			<Trail type="meskips.t.t7" trailData="Data/Trails/Aquatic.trl"/>
+		
 			<!-- 8: Underground Facility -->
+			<Trail type="meskips.t.t8" trailData="Data/Trails/UndergroundFacility.trl"/>
+
 			
 			<!-- 9: Molten Furnace -->
 			<!-- 			No noteworthy skips at this time		 	-->
+
 			
 			<!-- 10: Molten Boss -->
 			<Trail type="meskips.t.t10" trailData="Data/Trails/MoltenBoss.trl"/>
+
 			
 			<!-- 11: Deepstone -->
 			<!-- 			No noteworthy skips at this time		 	-->
+
 			
 			<!-- 12: Siren's Reef -->
 			<!-- 			No noteworthy skips at this time		 	-->
+
 			
 			<!-- 13: Chaos -->
+
 			
 			<!-- 14: Aetherblade -->
+
 			
 			<!-- 15: Thaumanova -->
+
 			
 			<!-- 16: Twilight Oasis -->
+
 			
 			<!-- 18: Mai Trin -->
 			<!-- 			No noteworthy skips at this time		 	-->
+
 			
 			<!-- 20: Solid Ocean -->
 			<Trail type="meskips.t.t20" trailData="Data/Trails/SolidOcean.trl"/>
+
 			
 			<!-- 22: Nightmare -->
+
 			
 			<!-- 23: Shattered Observatory -->
+
 			
 			<!-- 24: Sunqua Peak -->
+
 			
 			<!-- 25: Silent Surf -->
 			<!-- 			No noteworthy skips at this time		 	-->

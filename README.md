@@ -16,7 +16,7 @@ Made by Nickolas (Nick Kaedalus.9526). If you know of any other skips that aren'
 - [x] 4: Urban Battleground
 - [x] 5: Swampland (no skips)
 - [x] 6: Cliffside
-- [ ] 7: Aquatic Ruins
+- [x] 7: Aquatic Ruins (only dolphin)
 - [x] 8: Underground Facility
 - [x] 9: Molten Furnace (no skips)
 - [x] 10: Molten Boss

@@ -24,7 +24,7 @@ Made by Nickolas (Nick Kaedalus.9526). If you know of any other skips that aren'
 - [x] 12: Siren's Reef (no skips*)
 - [ ] 13: Chaos
 - [ ] 14: Aetherblade
-- [ ] 15: Thaumanova Reactor
+- [x] 15: Thaumanova Reactor
 - [ ] 16: Twilight Oasis
 - [x] 18: Mai Trin Boss (no skips)
 - [x] 20: Solid Ocean

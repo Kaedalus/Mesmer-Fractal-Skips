@@ -164,6 +164,22 @@
 			<!-- 14: Aetherblade -->
 			
 			<!-- 15: Thaumanova -->
+			<POI MapID="957" xpos="69.154" ypos="0.454429" zpos="-72.6431" type="meskips.m.pen" GUID="Bqr4TQSSMUa+tlZ/4stCyA=="/>
+			<POI MapID="957" xpos="-4.20313" ypos="0.157214" zpos="-33.3517" type="meskips.m.bl" GUID="u3+l5IoLy0G4VwJu1CdH+g=="/>
+			<POI MapID="957" xpos="-18.2956" ypos="15.4373" zpos="-14.3431" type="meskips.m.blt" GUID="cvQ+/3wnUEazr43qE+uIsQ=="/>
+			<POI MapID="957" xpos="-22.278" ypos="18.6749" zpos="-5.23444" type="meskips.m.pex" GUID="Ckou9angd06wPzX/LkUV2w=="/>
+			<POI MapID="957" xpos="-212.132" ypos="21.5862" zpos="-29.0019" type="meskips.m.blt" GUID="Pz2WiVxQakSiHmaGwDsicA=="/>
+			<POI MapID="957" xpos="-180.381" ypos="21.2169" zpos="-29.4324" type="meskips.m.bl" GUID="ZJ0uhmPnDEWjzQaAGNtz9Q=="/>
+			<POI MapID="957" xpos="-146.799" ypos="21.2455" zpos="-29.1612" type="meskips.m.bl" GUID="gU+E+FQ0iE6cemVV4z0Eew=="/>
+			<POI MapID="957" xpos="-134.17" ypos="21.1827" zpos="-29.2109" type="meskips.m.mm" GUID="wMAmSh0zzEeiUzfYx4zUWA=="/>
+			<POI MapID="957" xpos="-226.84" ypos="21.5843" zpos="-32.5752" type="meskips.m.di" GUID="hAAR1a1bcUObJPMD8EIdeA=="/>
+			<POI MapID="957" xpos="-43.9027" ypos="35.179" zpos="-191.936" type="meskips.m.pen" GUID="/JpPcs46AkueMe4oIZ7/Ww=="/>
+			<POI MapID="957" xpos="-1.03845" ypos="36.4659" zpos="-214.396" type="meskips.m.pex" GUID="IbyfELM1iEWVhE6bTrwTAA=="/>
+			<POI MapID="957" xpos="-49.222" ypos="37.2072" zpos="-193.213" type="meskips.m.mm" GUID="cj6pAux4kEuQ6aEw7AINYg=="/>
+			<POI MapID="957" xpos="-43.8066" ypos="38.5831" zpos="-194.063" type="meskips.m.bl" GUID="gu2AQsrbG02LyJFVcPKQ2Q=="/>
+			<POI MapID="957" xpos="-41.1104" ypos="38.0406" zpos="-214.834" type="meskips.m.blt" GUID="zBgyIyLPQkuCKwo2rM48aw=="/>
+			<POI MapID="957" xpos="-20.1576" ypos="37.8778" zpos="-225.134" type="meskips.m.blt" GUID="yWOqvIRQKEGFU7SXw3IjoQ=="/>
+			<POI MapID="957" xpos="-18.2404" ypos="39.6823" zpos="-231.478" type="meskips.m.di" GUID="OqrKRA4x90CToqmhHw4bLA=="/>
 			
 			<!-- 16: Twilight Oasis -->
 			
@@ -247,7 +263,8 @@
 
 			
 			<!-- 15: Thaumanova -->
-
+			<Trail type="meskips.t.t15" trailData="Data/Trails/Thaumanova.trl"/>
+			
 			
 			<!-- 16: Twilight Oasis -->
 

@@ -130,6 +130,9 @@
 			<!-- 7: Aquatic Ruins -->
 			<POI MapID="951" xpos="-116.245" ypos="-57.1247" zpos="-43.3471" type="meskips.m.ecct" GUID="T12L+2Ra6Eu7rozP9wKMWg=="/>
 			<POI MapID="951" xpos="155.8" ypos="-95.1338" zpos="131.897" type="meskips.m.gg" GUID="gLQ0s8+pW063ODuXk0uPRg=="/>
+			<POI MapID="951" xpos="-67.6906" ypos="-124.807" zpos="-173.337" type="meskips.m.pen" GUID="xXGkK3jRuUe9R3/fZfpr/A=="/>
+			<POI MapID="951" xpos="21.0204" ypos="-166.509" zpos="-94.3565" type="meskips.m.pex" GUID="swlq+oclkkSfLsqjz3tqGw=="/>
+			<POI MapID="951" xpos="-67.0561" ypos="-123.633" zpos="-174.805" type="meskips.m.sup" GUID="XO4r4mhgDESHCxR9aVmSDA=="/>
 			
 			<!-- 8: Underground Facility -->
 			<POI MapID="953" xpos="751.814" ypos="15.5905" zpos="410.321" type="meskips.m.ss" GUID="TZROF1wR5UO2LI3zjTNIMg=="/>
@@ -190,7 +193,7 @@
 		<!-- TRAILS -->
 			
 			<!-- 1: Volcanic -->
-			<Trail type="meskips.t.t1" trailData="Data/Trails/Cliffside.trl"/>
+			<Trail type="meskips.t.t1" trailData="Data/Trails/Volcanic.trl"/>
 			
 			
 			<!-- 2: Uncategorized -->
@@ -215,6 +218,7 @@
 		
 			<!-- 7: Aquatic Ruins -->
 			<Trail type="meskips.t.t7" trailData="Data/Trails/Aquatic.trl"/>
+			<Trail type="meskips.t.t7" trailData="Data/Trails/AquaticDark.trl"/>
 		
 			<!-- 8: Underground Facility -->
 			<Trail type="meskips.t.t8" trailData="Data/Trails/UndergroundFacility.trl"/>

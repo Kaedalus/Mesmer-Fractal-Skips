@@ -160,8 +160,20 @@
 			<!-- 			No noteworthy skips at this time		 	-->
 			
 			<!-- 13: Chaos -->
+			<POI MapID="1164" xpos="-233.897" ypos="560.831" zpos="-89.8825" type="meskips.m.sup" GUID="GODp2CjeWUKlJoLJg85WHg=="/>
+			<POI MapID="1164" xpos="-234.67" ypos="560.822" zpos="-90.6552" type="meskips.m.ch" GUID="uhb0uI8PYE661iYqQcdKYw==" iconSize="0.6"/>
+			<POI MapID="1164" xpos="-243.041" ypos="559.145" zpos="-42.2147" type="meskips.m.ss" GUID="KmciczBUXkGZ4JdHhFkZgw=="/>
+			
 			
 			<!-- 14: Aetherblade -->
+			<POI MapID="956" xpos="-16.8862" ypos="-0.399088" zpos="93.9128" type="meskips.m.bl" GUID="z+Dj+3xrZEGUkn4vqpejag=="/>
+			<POI MapID="956" xpos="-20.8899" ypos="6.48401" zpos="96.2893" type="meskips.m.blt" GUID="HR7biL4i6UGZBMJCG994hQ=="/>
+			<POI MapID="956" xpos="-12.7042" ypos="9.58664" zpos="93.4242" type="meskips.m.bl" GUID="TZfBbDHfFEmyhhxYlmWG5w=="/>
+			<POI MapID="956" xpos="-7.89175" ypos="25.6046" zpos="90.4909" type="meskips.m.blt" GUID="2lBc7z34AUSwCCIeDvYPIQ=="/>
+			<POI MapID="956" xpos="-1.17007" ypos="-0.0892191" zpos="106.722" type="meskips.m.ss" GUID="7zAzMqeZgUy1wW6rlmyPjQ=="/>
+			<POI MapID="956" xpos="-10.8665" ypos="0.46176" zpos="100.099" type="meskips.m.mm" GUID="Itfhmiltq0CgXvFk2WNe7w=="/>
+			<POI MapID="956" xpos="-17.196" ypos="10.391" zpos="104.158" type="meskips.m.sh" GUID="0noprMy7lUC8o0VqJtueQw=="/>
+			
 			
 			<!-- 15: Thaumanova -->
 			<POI MapID="957" xpos="69.154" ypos="0.454429" zpos="-72.6431" type="meskips.m.pen" GUID="Bqr4TQSSMUa+tlZ/4stCyA=="/>
@@ -181,7 +193,19 @@
 			<POI MapID="957" xpos="-20.1576" ypos="37.8778" zpos="-225.134" type="meskips.m.blt" GUID="yWOqvIRQKEGFU7SXw3IjoQ=="/>
 			<POI MapID="957" xpos="-18.2404" ypos="39.6823" zpos="-231.478" type="meskips.m.di" GUID="OqrKRA4x90CToqmhHw4bLA=="/>
 			
+			
 			<!-- 16: Twilight Oasis -->
+			<POI MapID="1267" xpos="37.6404" ypos="26.6927" zpos="225.339" type="meskips.m.mi" GUID="gs8cTnyiC0GXke2pDyZ8IA=="/>
+			<POI MapID="1267" xpos="33.2062" ypos="23.3083" zpos="210.64" type="meskips.m.mi" GUID="XFRV13PhvkqDI4uHs7GmkQ=="/>
+			<POI MapID="1267" xpos="31.8193" ypos="25.669" zpos="194.975" type="meskips.m.mm" GUID="iMuGVK1G2ki6JDDsJXhzBQ=="/>
+			<POI MapID="1267" xpos="28.5586" ypos="26.3771" zpos="186.511" type="meskips.m.bl" GUID="JcFwIU5s5kC5H6nHQRlxpA=="/>
+			<POI MapID="1267" xpos="21.8326" ypos="24.9215" zpos="157.744" type="meskips.m.blt" GUID="RyWQDfUZjEa/PAoAP6nhYQ=="/>
+			<POI MapID="1267" xpos="3.83339" ypos="24.4057" zpos="134.101" type="meskips.m.blt" GUID="O98/bXCx5E+0yBiOdpHGvw=="/>
+			<POI MapID="1267" xpos="5.11206" ypos="25.2576" zpos="88.59" type="meskips.m.pex" GUID="A4kJNBXbO0qXrLnD+irGsg=="/>
+			<POI MapID="1267" xpos="33.1819" ypos="23.2284" zpos="212.269" type="meskips.m.pen" GUID="k2RWby+nh0qBsWV5B3BSMA=="/>
+			<POI MapID="1267" xpos="37.0454" ypos="42.1438" zpos="73.1687" type="meskips.m.pen" GUID="iuDYtXkQ3Ui5dAoktALr3Q=="/>
+			<POI MapID="1267" xpos="135.546" ypos="36.7823" zpos="70.1447" type="meskips.m.pex" GUID="eRELBjsA5E+aMtG9QWVfdA=="/>
+
 			
 			<!-- 18: Mai Trin -->
 			<!-- 			No noteworthy skips at this time		 	-->
@@ -199,10 +223,31 @@
 			<POI MapID="958" xpos="736.55" ypos="612.093" zpos="689.165" type="meskips.m.pex" GUID="ex1hk3GrOkuMMjz4IRe2Vw=="/>
 			
 			<!-- 22: Nightmare -->
+			<!-- 			No noteworthy skips at this time		 	-->
+			
 			
 			<!-- 23: Shattered Observatory -->
+			<!-- 			No noteworthy skips at this time		 	-->
+			
 			
 			<!-- 24: Sunqua Peak -->
+			<POI MapID="1384" xpos="58.5404" ypos="63.6014" zpos="-221.189" type="meskips.m.mt" GUID="2iST0R8rt0qVHM0puianbw=="/>
+			<POI MapID="1384" xpos="-21.3594" ypos="84.9133" zpos="-211.434" type="meskips.m.pen" GUID="/rTVgCvoU0yppcB/GD+gqw=="/>
+			<POI MapID="1384" xpos="59.482" ypos="50.6709" zpos="-209.942" type="meskips.m.pex" GUID="wTmwLkgI4ku81wsvEHtLvg=="/>
+			<POI MapID="1384" xpos="-143.622" ypos="121.147" zpos="-104.639" type="meskips.m.gg" GUID="uD89va38HkS5Yxcnpqizbw=="/>
+			<POI MapID="1384" xpos="37.2219" ypos="203.913" zpos="-23.3717" type="meskips.m.mt" GUID="AjAPIVyVlkiJzxeLHXtWWg=="/>
+			<POI MapID="1384" xpos="41.9288" ypos="217.203" zpos="-11.7494" type="meskips.m.blt" GUID="nKNmARPVfEOMDsWUaNCYgQ=="/>
+			<POI MapID="1384" xpos="59.2813" ypos="206.93" zpos="-9.33635" type="meskips.m.bl" GUID="RkX5wtfX+0iw0FrMwIqVag=="/>
+			<POI MapID="1384" xpos="27.2093" ypos="204.19" zpos="-26.724" type="meskips.m.ss" GUID="8OT+maZR70GFdzLBlL0wlw=="/>
+			<POI MapID="1384" xpos="46.7873" ypos="203.405" zpos="-14.8398" type="meskips.m.wepswap" GUID="bt/6rPDgt0+ixyvZMmbK6w=="/>
+			<POI MapID="1384" xpos="56.3735" ypos="202.172" zpos="-9.35366" type="meskips.m.leap" GUID="K2at0tjU2kes7TXk/4kk7Q=="/>
+			<POI MapID="1384" xpos="56.3735" ypos="202.445" zpos="-12.7052" type="meskips.m.bldswap" GUID="Zw9M59FlTEmqn1gp+nVAmw=="/>
+			<POI MapID="1384" xpos="56.5878" ypos="202.215" zpos="-10.2937" type="meskips.m.wepswap" GUID="Zwf6WaTSckeaa5bJdrTA6A=="/>
+			<POI MapID="1384" xpos="41.9161" ypos="223.899" zpos="-19.9903" type="meskips.m.mt" GUID="eozb6pt5YUqagxyfDL7gmQ=="/>
+			<POI MapID="1384" xpos="49.035" ypos="223.585" zpos="-12.7639" type="meskips.m.wepswap" GUID="nrAscsa8kUi7DnKoO/5gJQ=="/>
+			<POI MapID="1384" xpos="-14.0619" ypos="211.313" zpos="130.617" type="meskips.m.wepswap" GUID="hdPQQqpRG0OVzitP+Nne8A=="/>
+			<POI MapID="1384" xpos="-17.7936" ypos="206.505" zpos="132.817" type="meskips.m.bldswap" GUID="bS/vqSu87ECceK91X14nyA=="/>
+			<POI MapID="1384" xpos="-6.86683" ypos="212.085" zpos="118.627" type="meskips.m.leap" GUID="DypN99oLkUWkpuXwrdlWWA=="/>
 			
 			<!-- 25: Silent Surf -->
 			<!-- 			No noteworthy skips at this time		 	-->	
@@ -257,9 +302,11 @@
 
 			
 			<!-- 13: Chaos -->
+			<Trail type="meskips.t.t13" trailData="Data/Trails/Chaos.trl"/>
 
 			
 			<!-- 14: Aetherblade -->
+			<Trail type="meskips.t.t14" trailData="Data/Trails/Aetherblade.trl"/>
 
 			
 			<!-- 15: Thaumanova -->
@@ -267,6 +314,7 @@
 			
 			
 			<!-- 16: Twilight Oasis -->
+			<Trail type="meskips.t.t16" trailData="Data/Trails/Twilight.trl"/>
 
 			
 			<!-- 18: Mai Trin -->
@@ -278,12 +326,17 @@
 
 			
 			<!-- 22: Nightmare -->
+			<!-- 			No noteworthy skips at this time		 	-->
 
 			
 			<!-- 23: Shattered Observatory -->
+			<!-- 			No noteworthy skips at this time		 	-->
 
 			
 			<!-- 24: Sunqua Peak -->
+			<Trail type="meskips.t.t24" trailData="Data/Trails/Sunqua.trl"/>
+			<Trail type="meskips.t.t24" trailData="Data/Trails/SunquaChoya.trl"/>
+			<Trail type="meskips.t.t24" trailData="Data/Trails/SunquaChoya2.trl"/>
 
 			
 			<!-- 25: Silent Surf -->

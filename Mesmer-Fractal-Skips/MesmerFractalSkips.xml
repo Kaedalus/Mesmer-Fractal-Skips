@@ -282,7 +282,7 @@
 			<Trail type="meskips.t.t7" trailData="Data/Trails/AquaticDark.trl"/>
 		
 			<!-- 8: Underground Facility -->
-			<Trail type="meskips.t.t8" trailData="Data/Trails/UndergroundFacility.trl"/>
+			<Trail type="meskips.t.t8" trailData="Data/Trails/Underground.trl"/>
 
 			
 			<!-- 9: Molten Furnace -->

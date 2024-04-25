@@ -30,7 +30,7 @@ Made by Nickolas (Nick Kaedalus.9526). If you know of any other skips that aren'
 - [x] 20: Solid Ocean
 - [ ] 22: Nightmare
 - [ ] 23: Shattered Observatory
-- [ ] 24: Sunqua Peak
+- [x] 24: Sunqua Peak
 - [x] 25: Silent Surf (no skips)
 
 \* There are complex speedrunning tricks or glitches, but these are out of the scope of this pack and/or not suitable for PUGs.

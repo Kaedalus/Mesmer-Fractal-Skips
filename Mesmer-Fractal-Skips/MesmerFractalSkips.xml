@@ -23,6 +23,9 @@
 			<MarkerCategory name="sup" displayName="Superspeed" iconFile="Data/Markers/Superspeed.png" alpha="0.8" iconSize="0.6"/>
 			<MarkerCategory name="swi" displayName="Swiftness" iconFile="Data/Markers/Swiftness.png" alpha="0.8" iconSize="0.6"/>
 			<MarkerCategory name="ecct" displayName="Endless Common Clothing Tonic" iconFile="Data/Markers/Shirt.png" alpha="0.9" iconSize="1"/>
+			<MarkerCategory Name="wepswap" DisplayName="Weapon Swap" iconFile="Data/Markers/WeapSwap.png" iconSize="0.6" alpha="0.8"/>
+			<MarkerCategory Name="leap" DisplayName="Blade Leap (Virtuoso)" iconFile="Data/Markers/VirtuosoIllusionaryLeap.png" iconSize="0.6" alpha="0.8"/>
+			<MarkerCategory Name="bldswap" DisplayName="Build Template Swap (Out of Virtuoso)" iconFile="Data/Markers/BuildTemplateSwap.png" iconSize="0.6" alpha="0.8"/>
 		</MarkerCategory>
 		
 		<!-- Trails -->
